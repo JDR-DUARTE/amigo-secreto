@@ -9,8 +9,7 @@ Un sencillo pero divertido generador de Amigo Secreto. Esta aplicación web te p
 * **Interfaz Sencilla:** Diseño limpio y fácil de usar.
 * **Añadir Participantes:** Agrega nombres a la lista de forma dinámica.
 * **Selección Aleatoria:** Un botón para elegir un participante al azar.
-* **Responsive:** Funciona en computadoras de escritorio y dispositivos móviles.
-
+* **Reiniciar:** Limpia la lista de amigos para comenzar nuevamente
 ---
 
 ## Tecnologías Utilizadas
@@ -29,11 +28,12 @@ Para utilizar este proyecto, solo necesitas un navegador web. Sigue estos sencil
 
 1.  **Clona el repositorio** o descarga los archivos en tu computadora.
     ```bash
-    git clone [https://github.com/TU_USUARIO/NOMBRE_DEL_REPOSITORIO.git](https://github.com/TU_USUARIO/NOMBRE_DEL_REPOSITORIO.git)
+    git clone [https://github.com/JDR-DUARTE/amigo-secreto.git](https://github.com/JDR-DUARTE/amigo-secreto.git)
     ```
 2.  **Abre el archivo `index.html`** en tu navegador web preferido (como Chrome, Firefox, etc.).
 3.  **Ingresa los nombres:** Escribe el nombre de cada participante en el campo de texto y presiona el botón para agregarlo a la lista.
 4.  **Haz el sorteo:** Una vez que todos los participantes estén en la lista, haz clic en el botón de "Sortear" para revelar al amigo secreto seleccionado.
 
 ---
-
+## Autor:
+ Jessica Ramirez
